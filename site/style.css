@@ -1,22 +1,4 @@
-.d1 {
+body {
     background-color: black;
-    color: white;
-    float:left;
-    border-right: 40px solid;
-    padding: 10px;
-}
-
-.d1 .p1 {
     color:red;
-}
-
-.d2 {
-    background-color:chartreuse;
-    color: cornflowerblue;
-    padding:10px;
-    float: right;
-}
-
-.d2 .p2 {
-    color: darkmagenta;
 }
